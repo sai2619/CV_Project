@@ -1,0 +1,13 @@
+pytesseract
+os
+matplotlib.pyplot
+cv2
+numpy
+skimage
+scipy
+scikit-image
+pdf2image 
+pillow
+poppler-utils
+collections
+sklearn
