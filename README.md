@@ -16,3 +16,8 @@ This project extracts pages from PDF files, identifies occurrences of the letter
 ## 🛠️ Installation
 
 1. Install the libraries that have been mentioned in the **Requirements.txt** file.
+
+
+## Execution of code
+
+1. We will directly run **main.ipynb** file in Google colab or in VSCode with uploading dataset i.e **scanner dataset-20250502T134328Z-1-001.zip** and change its name to **folder.zip** and also we upload **Brother.pdf** and **Xerox_Versalink.PDF**.
