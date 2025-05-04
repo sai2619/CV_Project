@@ -15,8 +15,4 @@ This project extracts pages from PDF files, identifies occurrences of the letter
 
 ## 🛠️ Installation
 
-1. **Clone the repository:**
-
-```bash
-git clone https://github.com/yourusername/printer-classification.git
-cd printer-classification
+1. Install the libraries that have been mentioned in the Requirements.txt file.
