@@ -5,7 +5,7 @@ This project extracts pages from PDF files, identifies occurrences of the letter
 
 # Problem Statement
 
-
+To identify the specific printer that produced a given printed document. Existing methods either require document modification or expensive hardware-based solutions. This research focuses on using intrinsic signatures—natural texture and banding artifacts from printer mechanisms. Such signatures are hard to forge and persist across different fonts, consumables, and usage. The challenge is to reliably classify documents from both known and unknown printers using texture-based features and distance metrics.
 
 
 
