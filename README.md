@@ -30,8 +30,8 @@ This project extracts pages from PDF files, identifies occurrences of the letter
 
 ## Individual Contributions
 
-1.) **Abhishek Kumar**:
+1.) **Abhishek Kumar**: Implemented **Tessaract OCR**.
 
-2.) **Abhay**:
+2.) **Abhay**: Implemented **GLCM Feature Extraction**.
 
 3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**.
