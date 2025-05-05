@@ -36,4 +36,4 @@ To identify the specific printer that produced a given printed document. Existin
 
 2.) **Abhayveer singh Oberio**: Implemented **GLCM Feature Extraction**.
 
-3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**(Also created Github link, written technical report and recorded video of executing of code too).
+3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**(Also created Github link, written technical report and recorded video of execution of code).
