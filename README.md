@@ -1,9 +1,11 @@
-# Printer Source Classification via GLCM Features of Character 'e'
+# Forensic Printer Detection Using Intrinsic Signatures
 
 This project extracts pages from PDF files, identifies occurrences of the letter **'e'**, computes GLCM texture features, and classifies the document's printing source based on pre-learned printer characteristics.
 
 
-**Problem Statement**
+# Problem Statement
+
+
 
 
 
