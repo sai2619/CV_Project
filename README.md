@@ -34,6 +34,6 @@ To identify the specific printer that produced a given printed document. Existin
 
 1.) **Abhishek Kumar**: Implemented **Tessaract OCR**.
 
-2.) **Abhay**: Implemented **GLCM Feature Extraction**.
+2.) **Abhayveer singh Oberio**: Implemented **GLCM Feature Extraction**.
 
 3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**.
