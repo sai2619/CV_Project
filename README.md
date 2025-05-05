@@ -27,7 +27,7 @@ To identify the specific printer that produced a given printed document. Existin
 
 ## Execution of code
 
-1. We will directly run **main.ipynb** file in Google colab or in VSCode with uploading dataset i.e **scanner dataset-20250502T134328Z-1-001.zip** and change its name to **folder.zip** and also we upload **Brother.pdf** and **Xerox_Versalink.PDF**.
+1. We will directly run **main.ipynb** file in Google colab or in VSCode with uploading dataset i.e **scanner dataset-20250502T134328Z-1-001.zip** and change its name to **folder.zip** and also we have uploaded **Xerox_Versalink.PDF**.
 
 
 ## Individual Contributions
@@ -36,4 +36,4 @@ To identify the specific printer that produced a given printed document. Existin
 
 2.) **Abhayveer singh Oberio**: Implemented **GLCM Feature Extraction**.
 
-3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**.(Also created Github link and written Technical Report)
+3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**(Also created Github link, written technical report and recorded video of executing of code too).
