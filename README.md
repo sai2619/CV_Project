@@ -27,13 +27,13 @@ To identify the specific printer that produced a given printed document. Existin
 
 ## Execution of code
 
-1. We will directly run **main.ipynb** file in Google colab or in VSCode with uploading dataset i.e **scanner dataset-20250502T134328Z-1-001.zip** and change its name to **folder.zip** and also we have uploaded **Xerox_Versalink.PDF**.
+1. We will directly run **main.ipynb** file in Google colab or in VSCode with uploading dataset i.e **scanner dataset-20250502T134328Z-1-001.zip** and change its name to **folder.zip** and also we have to upload **Xerox_Versalink.PDF**.
 
 
 ## Individual Contributions
 
-1.) **Abhishek Kumar**: Implemented **Tessaract OCR**.
+1.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**(Also created Github link, written technical report and recorded video of execution of code).
 
-2.) **Abhayveer singh Oberio**: Implemented **GLCM Feature Extraction**.
+2.) **Abhishek Kumar**: Implemented **Tessaract OCR**.
 
-3.) **G Sai Prabhath**: Handled the dataset and done my part from **feature reduction** to **Classification(end of the project)**(Also created Github link, written technical report and recorded video of execution of code).
+3.) **Abhayveer singh Oberio**: Implemented **GLCM Feature Extraction**.
